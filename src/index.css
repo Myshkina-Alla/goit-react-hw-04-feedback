@@ -23,7 +23,7 @@ code {
 }
 .container {
   box-shadow: 2px 2px 2px gray;
-  border-radius: 16px;
+  border-radius: 15px;
   background-color: white;
   padding: 20px;
   width: 400px;
